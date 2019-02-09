@@ -1,0 +1,30 @@
+#head
+{
+    background-color: #31a3b3; 
+    color: rgb(255, 255, 255);
+}
+#headup
+{  
+    background-color: #0306c5; 
+    color: rgb(255, 255, 255);
+}
+body{
+    color: rgb(53, 52, 52);
+}
+h1{
+    font-size: 20pt
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    font-size: 14pt;
+    margin-right: 10pt;
+}
+hr{
+    color: white;
+    size: 2pt;
+    width: 10%;
+}
+a{
+    color: rgb(224, 219, 219);
+}
